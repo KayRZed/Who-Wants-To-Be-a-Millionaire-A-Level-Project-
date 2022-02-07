@@ -11,7 +11,7 @@ These features are:
             
 I was also only able to implement one lifeline (call a friend) due to time contstraints and deadlines around the project.
 
-All of the code and description of it is in detail in the word document attached, it includes 5 stages; analysis, design, technical solution, testing and evaluation. It is very depth and that is the component that is being sent off to the exam board to get my grade.
+All of the code and description of it is in detail in the word document attached, it includes 5 stages; analysis, design, technical solution, testing and evaluation. It is very depth and that is the component that is being sent off to the exam board to get my grade, if you would like to view everything about the program including its background and evaluation then please read the document.
   
   
 
