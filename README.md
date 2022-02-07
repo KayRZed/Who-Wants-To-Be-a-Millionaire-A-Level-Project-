@@ -1,3 +1,5 @@
+Who Wants To Be a Millionaire Project by Krzysztof Ziolek for NEA Computer Science project (AQA)
+
 This project is based on the original Who Wants To Be a Millionaire, it will use the traditional format and sequence of the game. This is my NEA Project for my Computer Science A Level.
 
 I have wanted to keep the game as original as possible so I have used real questions and answers in my project and wanted to use the same lifeline that are in the game. That being said I have also added a few extra features into the program to make it more interesting as well as more complex. 
